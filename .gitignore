@@ -1,0 +1,10 @@
+.venv
+.idea
+
+handlers/__pychache__
+state/__pychache__
+keyboards/__pychache__
+middleware/__pychache__
+database/__pychache__
+filters/__pychache__
+
